@@ -2,7 +2,8 @@
   "name": "mycontacts",
   "dependencies": {
     "express": "^4.17.3",
-    "uuidv4": "^6.2.12"
+    "express-async-errors": "^3.1.1",
+    "pg": "^8.7.3"
   },
   "devDependencies": {
     "eslint": "^8.10.0",
